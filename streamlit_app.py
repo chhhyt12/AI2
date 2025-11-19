@@ -74,6 +74,11 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
+labels[0] : {"texts" : ["중국식 냉면은 정말 시원하고 맛있어~~ "], "images" : ["https://www.unileverfoodsolutions.co.kr/dam/global-ufs/mcos/south-korea/calcmenu/recipes/kr-recipes/chinese/header/%EC%A4%91%EA%B5%AD%EB%83%89%EB%A9%B4-chinese-cold-noodles-header-1260x709px.jpg"],},  
+labels[1] : {"texts" : ["짜장면은 중국집에서 꼭 먹어야되는 메뉴야~~"], "images" : ["https://ojsfile.ohmynews.com/STD_IMG_FILE/2016/1214/IE002069160_STD.jpg"]},
+labels[2] : {"texts" : ["짬뽕은 칼칼하고 맛있네~~"], "images" : ["https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/201706/05/d3feddd2-7588-410b-b08e-d963f782450b.jpg"]},
+labels[3] : {"texts" : ["탕수육은 역시 부먹으로 먹는게 정배지~"], "images" : ["https://shop.hansalim.or.kr/im/is/activeDesigner/%EC%B0%B9%EC%8C%80%ED%83%95%EC%88%98%EC%9C%A1_060306001.jpg"]}, 
+    
 }
 
 # ======================
